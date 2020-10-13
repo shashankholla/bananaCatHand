@@ -6,3 +6,6 @@ This model below is a 3 class image classifier built to classify between a cat, 
 Using the keras library with Tensorflow backend.
 
 Be sure to match the versions in the HTML described.
+
+[Read the code and description here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/shashankholla/bananaCatHand/master/HTML_Notebook_ShashankHolla.html?token=AECZQTWAVY2OSIWU2LARY2S7RZXMQ)
+
